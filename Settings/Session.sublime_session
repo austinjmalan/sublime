@@ -1,0 +1,448 @@
+{
+	"folder_history":
+	[
+		"/Users/malan/WebServer/Documents/britishtravelagency",
+		"/Users/malan/WebServer/Documents/britishtravel",
+		"/Users/malan/WebServer/Documents/british_travel_agency",
+		"/Users/malan/WebServer/Documents/bta",
+		"/Users/malan/WebServer/Documents",
+		"/Users/malan/Dropbox/50",
+		"/Users/malan/Dropbox/c"
+	],
+	"last_window_id": 22,
+	"settings":
+	{
+		"new_window_height": 780.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 52.0,
+				"selected_items":
+				[
+					[
+						"forma",
+						"Format Code"
+					],
+					[
+						"pip",
+						"Package Control: Install Package"
+					],
+					[
+						"doc",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"dock",
+						"Snippet: Start Docblock"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					]
+				],
+				"width": 543.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/malan/WebServer/Documents/britishtravelagency/webroot/index.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/.htaccess",
+				"/Users/malan/WebServer/Documents/c/index.html",
+				"/Users/malan/WebServer/Documents/britishtravelagency/support/__init__.php",
+				"/Users/malan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/malan/WebServer/Documents/britishtravelagency/r.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/webroot/.htaccess",
+				"/Users/malan/WebServer/Documents/britishtravelagency/support/bin/__init__.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/webroot/index.html",
+				"/Users/malan/WebServer/Documents/britishtravelagency/index.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/index.html",
+				"/Users/malan/WebServer/Documents/britishtravelagency/support/ApplicationStart.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/src/infrastructure/handler.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/conf/__init__.php",
+				"/Users/malan/WebServer/Documents/britishtravel/.htaccess",
+				"/Users/malan/WebServer/Documents/britishtravel/webroot/index.phtml",
+				"/Users/malan/WebServer/Documents/britishtravel/index.php",
+				"/Users/malan/WebServer/Documents/britishtravel/private/instance/startup.php",
+				"/Users/malan/WebServer/Documents/britishtravel/webroot/index.php",
+				"/Users/malan/WebServer/Documents/britishtravel/r.php",
+				"/Users/malan/WebServer/Documents/britishtravel/getroute.php",
+				"/Users/malan/WebServer/Documents/britishtravel/private/etc/configuration.php",
+				"/Users/malan/Desktop/cs50.html",
+				"/Users/malan/Dropbox/50/pset3/find/find.c",
+				"/Users/malan/Dropbox/50/pset3/find/helpers.c",
+				"/Users/malan/Dropbox/50/pset3/find/generate.c",
+				"/Users/malan/Dropbox/50/pset2/vigenere.c",
+				"/Users/malan/Dropbox/50/pset3/find/helpers.h",
+				"/Users/malan/Dropbox/50/pset3/find/Makefile",
+				"/Users/malan/Dropbox/50/pset1/hello.c",
+				"/Users/malan/Dropbox/50/pset1/mario.c",
+				"/Users/malan/Dropbox/50/pset2/caesar.c",
+				"/Users/malan/Dropbox/50/pset1/greedy.c",
+				"/Users/malan/Desktop/document.php",
+				"/Library/Documentation/Resources/Flamingo/6/flamingo.css",
+				"/private/etc/apache2/httpd.conf",
+				"/Users/malan/Desktop/untitled.html"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"/abc_files/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 986.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "591317886",
+					"file": "/Users/malan/Desktop/index.html",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 9,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 52.0,
+				"selected_items":
+				[
+					[
+						"forma",
+						"Format Code"
+					],
+					[
+						"pip",
+						"Package Control: Install Package"
+					],
+					[
+						"doc",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"dock",
+						"Snippet: Start Docblock"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					]
+				],
+				"width": 543.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/malan/WebServer/Documents/britishtravelagency/webroot/index.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/.htaccess",
+				"/Users/malan/WebServer/Documents/c/index.html",
+				"/Users/malan/WebServer/Documents/britishtravelagency/support/__init__.php",
+				"/Users/malan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/malan/WebServer/Documents/britishtravelagency/r.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/webroot/.htaccess",
+				"/Users/malan/WebServer/Documents/britishtravelagency/support/bin/__init__.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/webroot/index.html",
+				"/Users/malan/WebServer/Documents/britishtravelagency/index.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/index.html",
+				"/Users/malan/WebServer/Documents/britishtravelagency/support/ApplicationStart.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/src/infrastructure/handler.php",
+				"/Users/malan/WebServer/Documents/britishtravelagency/conf/__init__.php",
+				"/Users/malan/WebServer/Documents/britishtravel/.htaccess",
+				"/Users/malan/WebServer/Documents/britishtravel/webroot/index.phtml",
+				"/Users/malan/WebServer/Documents/britishtravel/index.php",
+				"/Users/malan/WebServer/Documents/britishtravel/private/instance/startup.php",
+				"/Users/malan/WebServer/Documents/britishtravel/webroot/index.php",
+				"/Users/malan/WebServer/Documents/britishtravel/r.php",
+				"/Users/malan/WebServer/Documents/britishtravel/getroute.php",
+				"/Users/malan/WebServer/Documents/britishtravel/private/etc/configuration.php",
+				"/Users/malan/Desktop/cs50.html",
+				"/Users/malan/Dropbox/50/pset3/find/find.c",
+				"/Users/malan/Dropbox/50/pset3/find/helpers.c",
+				"/Users/malan/Dropbox/50/pset3/find/generate.c",
+				"/Users/malan/Dropbox/50/pset2/vigenere.c",
+				"/Users/malan/Dropbox/50/pset3/find/helpers.h",
+				"/Users/malan/Dropbox/50/pset3/find/Makefile",
+				"/Users/malan/Dropbox/50/pset1/hello.c",
+				"/Users/malan/Dropbox/50/pset1/mario.c",
+				"/Users/malan/Dropbox/50/pset2/caesar.c",
+				"/Users/malan/Dropbox/50/pset1/greedy.c",
+				"/Users/malan/Desktop/document.php",
+				"/Library/Documentation/Resources/Flamingo/6/flamingo.css",
+				"/private/etc/apache2/httpd.conf",
+				"/Users/malan/Desktop/untitled.html"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"src=\"",
+					"\"img/",
+					"img/",
+					"\"css",
+					"css",
+					"img",
+					"href=\"",
+					"=\"",
+					"/abc_files/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/malan/Desktop/index.html",
+							"settings":
+							{
+								"buffer_size": 9,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										9
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "227 76 986 802 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 22,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
